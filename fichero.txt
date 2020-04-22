@@ -2,4 +2,8 @@ Hola soy un fichero
 
 Soy un fichero editado desde git
 
+<<<<<<< HEAD
 modificado en local
+=======
+fichero editado desde git por segunda vez.
+>>>>>>> c4c512807cea1737bbd786bf87f1570b670c640b
