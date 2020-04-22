@@ -2,4 +2,4 @@ Hola soy un fichero
 
 Soy un fichero editado desde git
 
-fichero editado desde git por segunda vez
+fichero editado desde git por segunda vez.
